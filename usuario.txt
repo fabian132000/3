@@ -1,0 +1,60 @@
+INSERT INTO usuario VALUES 
+('001','Adriana','Quispe','Av.Venezuela Calle1','20','542826',adriana@gmail.com,'4589642');
+INSERT INTO usuario VALUES 
+('002','Blanca','Flores','Av.Peru Calle1','23','571384',blanca@gmail.com,'4859713');
+INSERT INTO usuario VALUES 
+('003','Eduardo','Rodriguez','Av.Venezuela Calle4','35','654412',eduardo@gmail.com,'9756315');
+INSERT INTO usuario VALUES 
+('004','Jorge','Sanchez','Av.Venezuela Calle2','26','842675',jorge@gmail.com,'4859621');
+INSERT INTO usuario VALUES 
+('005','Alex','García','Av.Colombia Calle1','24','941258',alex@gmail.com,'1563248');
+INSERT INTO usuario VALUES 
+('006','Juan','Rojas','Av.Venezuela Calle3','19','354896',juan@gmail.com,'7485916');
+INSERT INTO usuario VALUES 
+('007','Maria','Díaz','Av.Peru Calle2','33','789426',maria@gmail.com,'4851622');
+INSERT INTO usuario VALUES 
+('008','Pepe','Torres','Av.Brasil Calle1','28','542168',pepe@gmail.com,'9584267');
+INSERT INTO usuario VALUES 
+('009','Daniel','Lopez','Av.Venezuela Calle5','24','652149',daniel@gmail.com,'3544682');
+INSERT INTO usuario VALUES 
+('010','Jose','Gonzales','Av.Peru Calle3','18','254896',jose@gmail.com,'2451536');
+INSERT INTO usuario VALUES 
+('011','Johan','Perez','Av.Colombia Calle2','41','357896',johan@gmail.com,'7145628');
+INSERT INTO usuario VALUES 
+('012','Rodrigo','Chavez','Av.Brasil Calle2','37','456159',rodrigo@gmail.com,'2645891');
+INSERT INTO usuario VALUES 
+('013','Arturo','Vasquez','Av.Ecuador Calle1','31','256841',arturo@gmail.com,'6311592');
+INSERT INTO usuario VALUES 
+('014','Karla','Ramos','Av.Peru Calle4','45','598741',karla@gmail.com,'1534862');
+INSERT INTO usuario VALUES 
+('015','Franco','Ramirez','Av.Ecuador Calle2','25','651489',franco@gmail.com,'4264865');
+INSERT INTO usuario VALUES 
+('016','Isabela','Espinoza','Av.Venezuela Calle6','27','145896',isabela@gmail.com,'1593576');
+INSERT INTO usuario VALUES 
+('017','Juana','Mendoza','Av.Peru Calle5','23','254871',juana@gmail.com,'9517534');
+INSERT INTO usuario VALUES 
+('018','Paola','Castillo','Av.Brasil Calle3','50','468913',paola@gmail.com,'1534825');
+INSERT INTO usuario VALUES 
+('019','Diego','Huaman','Av.Colombia Calle3','65','491672',diego@gmail.com,'2013570');
+INSERT INTO usuario VALUES 
+('020','Jhonatan','Vargas','Av.Ecuador Calle3','38','492873',jhonatan@gmail.com,'1502367');
+INSERT INTO usuario VALUES 
+('021','Mariana','Dominguez','Av.Venezuela Calle7','34','167845',mariana@gmail.com,'9452016');
+INSERT INTO usuario VALUES 
+('022','Elizabeth','Farfan','Av.Peru Calle6','26','135249',elizabeth@gmail.com,'5420387');
+INSERT INTO usuario VALUES 
+('023','Ramon','Guerrero','Av.Brasil Calle4','32','654287',ramon@gmail.com,'2018579');
+INSERT INTO usuario VALUES 
+('024','Alejandro','Pizarro','Av.Venezuela Calle8','19','751634',alejandro@gmail.com,'2019023');
+INSERT INTO usuario VALUES 
+('025','Alejandra','Ibañez','Av.Colombia Calle4','44','982325',alejandra@gmail.com,'3207466');
+INSERT INTO usuario VALUES 
+('026','Rafael','Soto','Av.Brasil Calle5','40','301526',rafael@gmail.com,'1524600');
+INSERT INTO usuario VALUES 
+('027','Keiko','Carrillo','Av.Ecuador Calle1','29','250424',keiko@gmail.com,'4625825');
+INSERT INTO usuario VALUES 
+('028','Pablo','Dos Santos','Av.Venezuela Calle9','30','356200',pablo@gmail.com,'2564825');
+INSERT INTO usuario VALUES 
+('029','Julio','Villanueva','Av.Peru Calle7','22','818264',julio@gmail.com,'1230845');
+INSERT INTO usuario VALUES 
+('030','Naomi','Alvarez','Av.Venezuela Calle10','19','946570',naomi@gmail.com,'1653243');
